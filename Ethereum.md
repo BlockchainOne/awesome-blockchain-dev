@@ -18,7 +18,7 @@ Awesome Ethereum。Forked from [awesome-blockchain-cn](https://github.com/chaozh
 
 ## Architect
 
-- [以太坊白皮书](http://ethfans.org/wikis/ 以太坊白皮书) 讲解以太坊设计思路
+- [以太坊白皮书](http://ethfans.org/wikis/以太坊白皮书) 讲解以太坊设计思路
 - [以太坊黄皮书](http://yellowpaper.io) 论证以太坊技术可能性 [中文版](https://github.com/yuange1024/ethereum_yellowpaper/blob/master/Paper_Chinese.pdf)
 - [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
 - [以太坊 Gas 使用](https://hackernoon.com/ether-purchase-power-df40a38c5a2f) Calculating Costs in Ethereum Contracts *(English)*

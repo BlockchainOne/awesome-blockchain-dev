@@ -16,9 +16,9 @@
 - [DOCUMENT 资料](#document-%E8%B5%84%E6%96%99)
 - [APPLICATION 应用](#application-%E5%BA%94%E7%94%A8)
 
-## INTRO 介绍 
+## INTRO 介绍
 
-### Started 入门 
+### Started 入门
 
 - [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide) 区块链领域比较系统的入门资料
 - [一步一步学区块链](http://blog.csdn.net/jwter87/article/details/53322642) 按步骤的实际操作入门指南
@@ -30,7 +30,7 @@
 
 ### Ethereum 以太坊进阶
 
-- [以太坊白皮书](http://ethfans.org/wikis/ 以太坊白皮书)
+- [以太坊白皮书](http://ethfans.org/wikis/以太坊白皮书)
 - [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page) *(English)*
 - [以太坊设计原理](http://ethfans.org/posts/510)
 - [以太坊 Dapp 开发入门](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
