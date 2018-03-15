@@ -8,7 +8,7 @@ Blockchain dev related sources. Forked from [awesome-blockchain-cn](https://gith
 
 [中文](README.md) | [English](README-en.md)
 
-## 目录
+## Contents
 
 ## License
 
