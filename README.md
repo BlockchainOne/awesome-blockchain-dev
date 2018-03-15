@@ -39,7 +39,6 @@
 - [以太坊源码阅读](http://www.cnblogs.com/baizx/category/1011749.html)
 - [Merkle Tree 学习](http://blog.csdn.net/jiange_zh/article/details/53386250)
 
-
 ### Fabric 联盟链进阶
 
 - [Blockchain 区块链架构设计之一：成员管理](https://zhuanlan.zhihu.com/p/23356616)
@@ -205,6 +204,14 @@
 - [ERC20](https://github.com/ethereum/EIPs/pull/610) 以太坊的 ICO 代币标准
 - [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
 - [maker](https://makerdao.com/) Dai 代币
+
+## Awesome Ethereum
+
+* [Awesome Ethereum](https://github.com/BlockchainOne/awesome-blockchain-dev/blob/master/Ethereum.md)
+
+## Awesome Fabric
+
+* [Awesome Fabric](https://github.com/BlockchainOne/awesome-blockchain-dev/blob/master/Fabric.md)
 
 ## License
 
